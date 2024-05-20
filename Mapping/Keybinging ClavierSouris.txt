@@ -1,0 +1,10 @@
+- Vehicles - Seats and operator modes
+	* Enter Remote Turret 1 : F5
+	* Enter Remote Turret 2 : F6
+	* Enter Remote Turret 3 : F7
+- Flight - Movement
+	* Pitch :
+	* Yaw : 
+- On Foot - All
+	* Crouch : Left Ctrl
+	* Prone : C

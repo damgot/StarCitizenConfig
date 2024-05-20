@@ -1,0 +1,59 @@
+Configuration :
+- Game settings
+    * Show hints : No
+	* Control Hints : Yes
+	* Subtitles Enabled : No
+	* Contextual Dialog Subtitle : Yes
+	* Flight - GSafe - Defaults On : No
+	* Flight - SpaceBrake Engages Boost - Yes
+	* Pilot ESP - Strenght : 1.00
+	* Pilot - Velocity Indicator : Always On
+	* Vehicles - Targeting - Enable Auto Zoom on Locked Target : No
+	* Pilot - Look Ahead - Enabled : No
+	* G-Force Induced Head Movement : 0.10
+	* G-Force Induced Head-Bob - ADS Modifier : 0.10
+	* G-Force Induced Afterburner Zoom : 0.10
+	* Global Camera Shake : 0.10
+	* Vehicles - Exiting Combat Seats Requires Hold (250ms) : No
+	* Emissions HUD - Display Signature  : Yes
+	
+- Graphics
+	Windows mode : Borderless
+	Upscaling Technique : FSR
+	HDR  (Experimental) : Enabled
+	HDR Brightness (Ref-White) : 220
+	HDR Peak Brightness : 430
+	Quality : Hight
+	Scattered Object Distance : High
+	Water - Number of Simulated Regions : Medium
+	Terrain Tessellation Distance : High
+	Screen Space Shadows : High
+	Planet Volumetric Clouds : Very High
+	Filed Of View : 98
+	Motion Blur : Off
+	VSync : Off
+	Sharpening : 0
+	Chromatic Aberration : 0
+	Film Grain : Off
+
+- Audio 
+	Play Audio When Game in Background : Yes
+	
+Control :
+Inversion settings
+	Flight/Flight Movement/ui_v_strafe_longitudinal : Yes (for Joystick/HOTAS 1)
+	Flight/Flight Movement/Velocity Limiter (abs) : Yes (for Joystick/HOTAS 2)
+	Flight/Flight Movement/Acceleration Limiter (abs) : Yes (for Joystick/HOTAS 2)
+Sesitivity curve
+	Flight/Flight Movement/Flight (Pitch) : 3.0
+	Flight/Flight Movement/Flight (Yaw) : 2.5
+	Flight/Flight Movement/Flight (Roll) : 3.0
+	Flight/Flight Movement/Flight Strafe (Up/Down) : 2.50
+	Flight/Flight Movement/Flight Strafe (Left/Right) : 2.50
+	Flight/Flight Movement/ui_v_strafe_longitudinal : 2.50
+	Flight/Flight Movement/ui_v_strafe_forward : 2.50
+	Flight/Flight Movement/ui_v_strafe_backward : 2.50
+	
+Comms, foip & head tracking
+	Head Tracking - General - Use position offset in cockpit : No
+	Head Tracking - General - Toggle - Disable during mobliglass : Yes

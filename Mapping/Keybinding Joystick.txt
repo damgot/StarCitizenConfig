@@ -1,0 +1,141 @@
+- Vehicles - Seats and operator modes
+	* Next Operator Mode : Button 3 (input 2)
+- Vehicles - Cockpit
+	* Flight / Systems Ready : Button 25
+	* Open All Doors : Button 24
+	* Close All Doors : Button 23
+	* Lock All Doors : Button 23 (input 2)
+	* Unlock All Doors : Button 24 (input 2)
+	* Port Lock All : Button 14
+	* Port Unlock All : Button 12
+- Vehicles - View
+	* Look left/right : X Axis Rotation (input 2)
+	* Look Up/down : Y Axis Rotation (input 2)
+	* Cycle camera view : Button 4 (input 2)
+	* FreeLook Hold : Button 4
+- Flight - Movement :
+	* Pitch : Y Axis (input 2)
+	* Yaw : Z Axis Rotation (input 2)
+	* Roll : X Axis (input 2)
+	* Strafe up/down (abs) : Z Axis
+	* Strage left/right (abs) : X Axis
+	* Throttle Forward / Back : Y Axis
+	* Throttle - Cruise Mode - Toggle : Button 10 (input 2)
+	* Decoupled Mode (Toggle) : Button 20
+	* Boost : Button 1
+	* Speed Limiter - Increase : Button 16 (input 2)
+	* Speed Limiter - Descrease : Button 18 (input 2)
+	* Speed Limiter - On/Off (Toggle) : Button 17 (input 2)
+	* Acceleration Limiter Up/Down (abs) : Z Axis (input 2) (levier base)
+	* Spacebrake : Button 22
+	* G-Force Safety On/Off (toggle) : Button 19 (input 2)
+	* Esp - Toggle On/Off (Press) : Button 19
+	* Landing System (Toggle) : Button 16
+	* Toggle VTOL : Button 18
+	* Cycle Configuration : Button 10
+	* Autoland : Button 16
+	* Request Landing : Button 29 (input 2)
+	* Cycle Master Mode (Long Press) : Button 21
+- Flight - Quantum Travel :
+	* Engage Quantum Drive (Hold) : Button 20 (input 2)
+- Flight - Docking
+	* Toggle Docking Mode : Button 16
+	* Invoke Docking : Button 16
+- Vehicles - Targeting 
+	* Auto Targeting - Toggle On/Off (Long Press) : Button 11 (input 2)
+	* Pin Index 1 - Lock/Unlock Pinned Target : Left (Hat 1)
+	* Pin Index 2 - Lock/Unlock Pinned Target : Up (Hat 1)
+	* Pin Index 3 - Lock/Unlock Pinned Target : Right (Hat 1)
+	* Pin Index 1 - Pin/Unpin Pinned Target (Hold) : Left (Hat 1)
+	* Pin Index 2 - Pin/Unpin Pinned Target (Hold) : Up (Hat 1)
+	* Pin Index 3 - Pin/Unpin Pinned Target (Hold) : Right (Hat 1)
+	* Remove All Pinned Targets : Down (Hat 1)
+	* Unlock Current Target : Button 15 (input 2)
+- Vehicles - Target Cycling 
+	* Cycle Lock - In View - Forward : Button 11 (input 2)
+	* Cycle Lock - In View - Under Reticle : Button 11 (input 2)
+	* Cycle Lock - Attackers - Forward : Button 13 (input 2)
+	* Cycle Lock - Attackers - Reset to Closest : Button 13 (input 2)
+	* Cycle Lock - Hostiles - Forward : Button 12 (input 2)
+	* Cycle Lock - Hostiles - Reset to Closest : Button 12 (input 2)
+	* Cycle Lock - Friendlies - Forward : Button 14 (input 2)
+	* Cycle Lock - Friendlies - Reset to Closest : Button 14 (input 2)
+	* Cycle Lock - Sub-Target - Back : Button 13
+	* Cycle Lock - Sub-Target - Forward : Button 11
+	* Cycle Lock - Sub-Target - Reset to Main Target : Button 15
+- Flight - Radar
+	* Activate Ping (Hold & Release) : Button 3
+- Vehicles - Scanning
+	* Activate Scanning : Button 1 (input2)
+	* Increase Scanning Angle : Button 25 (input 2)
+	* Decrease Scanning Angle : Button 26 (input 2)
+- Vehicles - Mining 
+	* Fire Mining Laser (Toggle) : Button 1 (input 2)
+	* Switch Mining Laser (Toggle) : Button 13 (input 2)
+	* Increase / Decrease Mining Laser Power : Z Axis (levier base)
+	* Activate Mining Module (Slot 1) : Button 14 (input 2)
+	* Activate Mining Module (Slot 2) : Button 11 (input 2)
+	* Activate Mining Module (Slot 3) : Button 12 (input 2)
+- Vehicles - Salvage
+	* Toggle Fire Focused : Button 1 (input 2)
+	* Salvage Mode Gimbal (Toggle) : Button 28 (input 2)
+	* Absolute Beam Spacing : Z Axis (levier base)
+	* Salvage Beam Axis (Toggle) : Button 13 (input 2)
+	* Cycle Left Salvage Modifier : Button 14 (input 2)
+	* Cycle Right Salvage Modifier : Button 12 (input 2)
+	* Focus all Salvage heads : Button 11 (input 2)
+	* Focus left Salvage head : Button 9 (input 2)
+	* Focus right Salvage head : Button 7 (input 2)
+	* Focus Fracture tool : Button 6  (input 2)
+	* Focus Disintegration tool : Button 8 (input 2)
+- Vehicles - Weapons 
+	* Fire Weapon All : Button 1 (input 2)
+	* Fire Weapon Group 1 : Button 1 (input 2)
+	* Cycle Gimbal Assis / Standard Gimbal / Gimbal Lock modes : Button 28 (input 2)
+	* Cycle Fire Mode (Staggered / Combined) : Button 17
+	* Precision Targeting - Toggle : Button 5
+	* Precision Targeting - Maz Zoom (Hold) : Button 5
+- Vehicles - Missiles 
+	* Launch Missiles (tap) : Button 1 (input 2)
+	* Cycle Next Missile Type : Button 6 (input 2)
+	* Increase Number of Armed Missiles : Button 9 (input 2)
+	* Decrease Number of Armed Missiles : Button 7 (input 2)
+	* Bombs - Toggle Desired Impact Point (Tap) : Button 8 (input 2)
+- Vehicles - Shields and Countermeasures :
+	* Decoy - Launch Burst (tap), Set and Launch Burst (hold) : Button 22 (input 2)
+	* Decoy - Increase Burst Size (tap) : Button 25 (input 2)
+	* Decoy - Decrease Burst Size (tap) : Button 26 (input 2)
+	* Noise - Deploy (Tap) : Button 21 (input 2)
+- Vehicles - Power Triange Assignement 
+	* Weapons - Set to Max (tap) : Button 9
+	* Engine - Set to Max (tap) : Button 8
+	* Shields - Set to Max (tap) : Button 7
+	* Reset Assignments : Button 6
+- Flight - Power 
+	* Set Power Off : Button 26
+	* Toggle Power - Thrusters : Button 27
+	* Toggle Power - Shields : Button 29
+	* Toggle Power - Weapons : Button 28
+- Lights 
+	* Headlights (Toggle) : Button 27 (input 2)
+- Ground Vehicle - General
+	* Cycle camera view : Button 4  (input 2)
+	* Look left/right : X-Axis Rotation (input 2)
+	* Look up/down : Y-Axis Rotation (input 2)
+	* Freelook (Hold) : Button 4
+	* Fire Weapon All : Button 1 (input 2)
+	* Flight / Systems Ready : Button 25
+	* Open All Doors : Button 23
+	* Close All Doors : Button 24
+	* Lock All Doors : Button 23 (input 2)
+	* Unlock All Doors : Button 24 (input 2)
+	* Port Lock All : Button 14
+	* Port Unlock All : Button 12
+- Ground Vehicle - Movement
+	* Drive Forward/Backward : Y-Axis
+	* Yaw Left/Righ (Axis / Hotas) : X-Axis
+	* Brake : Button 22
+	* Boost : Button 1
+	* @ui_CI_MGV_ToggleBreakOnIdle : Button 20
+- VOIP, FOIP and Head Tracking
+	* VOIP Push To Talk : Button 5 (input 2)
